@@ -407,7 +407,7 @@ return`*── 「 RULES AND FAQ 」 ──*
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian beli ke owner Arulbot
+➡️ Script ini bisa kalian beli ke owner AgatZBOT
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk itu tergantung dari owner bot sendiri

@@ -8,7 +8,7 @@
   ꕥ My Friend
   ꕥ Penyedia Api
   ꕥ Penyedia Module
-  ꕥ User ARULBOT 
+  ꕥ User AgatZBOT
   ꕥ All Support
 **/ 
 
@@ -153,7 +153,7 @@ function _0x49ce() {
         'xtMessage',
         'sendMessag',
         'group-upda',
-        'Arulbot-MD',
+        'AgatZBot',
         'test',
         'clui',
         './lib/serp',
